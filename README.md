@@ -3,7 +3,7 @@
 Mod do Among Us wprowadzający sporo nowych ról, z których niektóre wprowadzają prawdziwy chaos w gameplay'u gry
 
 --------------------
-# Releases
+# Wydania
 
 |Among Us-wersje|Wersja moda|Zmiany|Link|
 |----------|--------|--------|-------|
