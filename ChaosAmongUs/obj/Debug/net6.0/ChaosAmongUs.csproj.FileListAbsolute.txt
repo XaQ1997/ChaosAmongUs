@@ -1,0 +1,10 @@
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\bin\Debug\net6.0\ChaosAmongUs.deps.json
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\bin\Debug\net6.0\ChaosAmongUs.dll
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\ChaosAmongUs.csproj.AssemblyReference.cache
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\ChaosAmongUs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\ChaosAmongUs.AssemblyInfoInputs.cache
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\ChaosAmongUs.AssemblyInfo.cs
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\ChaosAmongUs.csproj.CoreCompileInputs.cache
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\ChaosAmongUs.dll
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\refint\ChaosAmongUs.dll
+C:\Users\ksawe\OneDrive\Pulpit\Gry\amogu\ChaosAmongUs\ChaosAmongUs\obj\Debug\net6.0\ref\ChaosAmongUs.dll
