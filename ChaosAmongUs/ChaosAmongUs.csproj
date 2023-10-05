@@ -4,9 +4,9 @@
         <LangVersion>latest</LangVersion>
         <DebugType>embedded</DebugType>
 
-        <VersionPrefix>0.0.1</VersionPrefix>
+        <VersionPrefix>0.0.2</VersionPrefix>
         <VersionSuffix>dev</VersionSuffix>
-        <Description>Among Us Mod</Description>
+        <Description>Chaos Among Us v0.0.2</Description>
         <!-- <Authors>Xaviush</Authors> -->
     </PropertyGroup>
 

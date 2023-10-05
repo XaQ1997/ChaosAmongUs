@@ -4448,7 +4448,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "0.0.1-dev",
+    "version": "0.0.2-dev",
     "restore": {
       "projectUniqueName": "C:\\Users\\ksawe\\OneDrive\\Pulpit\\Gry\\amogu\\ChaosAmongUs\\ChaosAmongUs\\ChaosAmongUs.csproj",
       "projectName": "ChaosAmongUs",

@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ChaosAmongUs/0.0.1-dev": {
+      "ChaosAmongUs/0.0.2-dev": {
         "dependencies": {
           "AmongUs.GameLibs.Steam": "2022.10.25",
           "BepInEx.AutoPlugin": "1.1.0",
@@ -598,7 +598,7 @@
     }
   },
   "libraries": {
-    "ChaosAmongUs/0.0.1-dev": {
+    "ChaosAmongUs/0.0.2-dev": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

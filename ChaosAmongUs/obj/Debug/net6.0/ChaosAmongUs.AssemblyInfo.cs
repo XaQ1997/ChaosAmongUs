@@ -12,12 +12,12 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChaosAmongUs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Among Us Mod")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1-dev")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Chaos Among Us v0.0.2")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.2-dev")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChaosAmongUs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChaosAmongUs")]
-[assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.0.2.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
 
