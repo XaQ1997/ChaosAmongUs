@@ -1,4 +1,4 @@
-# ChaosAmongUs
+# Chaos Among Us
 
 Mod do Among Us wprowadzający sporo nowych ról, z których niektóre wprowadzają prawdziwy chaos w gameplay'u gry
 
