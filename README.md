@@ -17,5 +17,5 @@ Mod do Among Us wprowadzający sporo nowych ról, z których niektóre wprowadza
 
 ***Role Crewmate'ów***
 
-**Reviver**
+**Reviver** \n
 **Reviver** (**Wskrzeszacz**) to rola, która wskrzesza martwego gracza, gdy znajdzie jego ciało. Wskrzeszanie polega na śmierci **Revivera**, a po sekundzie (domyślnie) wskrzeszany wraca do gry.
