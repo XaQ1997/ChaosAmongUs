@@ -14,7 +14,7 @@ namespace ChaosAmongUs
     public partial class ChaosAmongUs : BasePlugin
     {
         public const string Id = "pl.xaviush.chaosamongus";
-        public const string VersionString = "0.0.2";
+        public const string VersionString = "0.0.3";
         public static System.Version Version = System.Version.Parse(VersionString);
 
         public static Vector3 ButtonPosition { get; private set; } = new Vector3(2.6f, 0.7f, -9f);
